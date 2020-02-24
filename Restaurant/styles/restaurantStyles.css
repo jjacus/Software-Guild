@@ -1,0 +1,54 @@
+/*
+	Creator: John Jacus
+	Date created: 2/18/2020
+	Date last modified:
+*/
+body {
+	font-family: arial, helvetica, sans-serif;
+	color: #0d1f2d;
+	max-width: 900px;
+	margin: 0 auto;	
+	background-color: #E8E9F3;
+}
+header, footer {
+	text-align:center;
+	background-color: #153243;
+	color: #fef9ff;
+	padding: 30px 10px 30px 10px;
+}
+h1 {
+	font-family: 'Open Sans Condensed'; 
+	font-size: 3em;
+}
+nav {
+	margin: 0 0 30px 0
+}
+.clear-float {
+	clear:both;
+}
+#description {
+	background-color: #AFD0BF;
+	padding: 30px 10px 20px 10px;
+}
+nav a {
+	background-color: #5b7d87;
+	color: #fef9ff;
+	padding: 8px;
+	border: thin solid #0d1f2d;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	margin: 20px;
+	width: 120px;
+	float: left;
+}
+nav a:visited {
+	color: #C8D5B9;
+}	
+nav a:hover {
+	font-weight: bold;
+}
+nav a:active {
+	font-weight: normal;
+}
+
