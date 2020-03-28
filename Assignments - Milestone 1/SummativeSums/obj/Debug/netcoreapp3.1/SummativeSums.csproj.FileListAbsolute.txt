@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.exe
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.deps.json
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.runtimeconfig.json
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.runtimeconfig.dev.json
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.dll
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.pdb
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.csprojAssemblyReference.cache
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.AssemblyInfo.cs
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.dll
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.pdb

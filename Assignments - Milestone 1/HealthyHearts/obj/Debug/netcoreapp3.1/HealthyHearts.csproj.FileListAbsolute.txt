@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.exe
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.deps.json
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.runtimeconfig.json
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.runtimeconfig.dev.json
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.dll
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\HealthyHearts\bin\Debug\netcoreapp3.1\HealthyHearts.pdb
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\HealthyHearts\obj\Debug\netcoreapp3.1\HealthyHearts.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\HealthyHearts\obj\Debug\netcoreapp3.1\HealthyHearts.AssemblyInfo.cs
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\HealthyHearts\obj\Debug\netcoreapp3.1\HealthyHearts.dll
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\HealthyHearts\obj\Debug\netcoreapp3.1\HealthyHearts.pdb

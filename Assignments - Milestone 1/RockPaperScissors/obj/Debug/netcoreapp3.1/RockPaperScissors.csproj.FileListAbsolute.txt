@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.exe
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.deps.json
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.json
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.dev.json
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.dll
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.pdb
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfo.cs
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.dll
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.pdb

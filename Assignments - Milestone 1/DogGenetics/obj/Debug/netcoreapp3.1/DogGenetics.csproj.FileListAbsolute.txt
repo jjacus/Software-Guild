@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\DogGenetics\bin\Debug\netcoreapp3.1\DogGenetics.exe
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\DogGenetics\bin\Debug\netcoreapp3.1\DogGenetics.deps.json
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\DogGenetics\bin\Debug\netcoreapp3.1\DogGenetics.runtimeconfig.json
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\DogGenetics\bin\Debug\netcoreapp3.1\DogGenetics.runtimeconfig.dev.json
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\DogGenetics\bin\Debug\netcoreapp3.1\DogGenetics.dll
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\DogGenetics\bin\Debug\netcoreapp3.1\DogGenetics.pdb
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\DogGenetics\obj\Debug\netcoreapp3.1\DogGenetics.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\DogGenetics\obj\Debug\netcoreapp3.1\DogGenetics.AssemblyInfo.cs
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\DogGenetics\obj\Debug\netcoreapp3.1\DogGenetics.dll
+C:\Users\John\Desktop\SoftwareGuild\C#\Assignments\DogGenetics\obj\Debug\netcoreapp3.1\DogGenetics.pdb
