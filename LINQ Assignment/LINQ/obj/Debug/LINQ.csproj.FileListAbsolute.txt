@@ -1,0 +1,17 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\03-Collections-LINQ-SystemIO-DateTime\Asssessments\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\LINQ\bin\Debug\Customers.xml
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\LINQ\bin\Debug\LINQ.exe
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\LINQ\bin\Debug\LINQ.pdb
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\LINQ\obj\Debug\LINQ.exe
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\LINQ\obj\Debug\LINQ.pdb
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\LINQ Assignment\LINQ\bin\Debug\Customers.xml
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\LINQ Assignment\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\LINQ Assignment\LINQ\bin\Debug\LINQ.exe
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\LINQ Assignment\LINQ\bin\Debug\LINQ.pdb
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\LINQ Assignment\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\LINQ Assignment\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\LINQ Assignment\LINQ\obj\Debug\LINQ.exe
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\LINQ Assignment\LINQ\obj\Debug\LINQ.pdb
