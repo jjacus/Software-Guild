@@ -1,0 +1,6 @@
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\Milestone 2\SG - Bank\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\Milestone 2\SG - Bank\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\Milestone 2\SG - Bank\SGBank.Models\obj\Debug\SGBank.Models.csprojAssemblyReference.cache
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\Milestone 2\SG - Bank\SGBank.Models\obj\Debug\SGBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\Milestone 2\SG - Bank\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\Milestone 2\SG - Bank\SGBank.Models\obj\Debug\SGBank.Models.pdb
